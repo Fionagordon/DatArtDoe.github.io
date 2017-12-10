@@ -1,0 +1,37 @@
+header {
+  color:white;
+  background-color: black;
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Itim', cursive; 
+}
+
+body {
+  background-color: #DDA5E8
+}
+
+nav li {
+  display: inline-block;
+  font-size: 20px
+}
+
+h1 {
+  font-size: 30px;
+  color: black;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: bold;
+}
+
+P {
+  font-family: 'Itim', cursive;
+  font-weight: lighter;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
