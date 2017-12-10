@@ -1,0 +1,25 @@
+header {
+  color: black;
+  background-color: #87A3FF;
+  text-align: center;
+  font-size: 39px;
+}
+
+body {
+  background-color: #FFBBD7;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+img {
+  margin: auto;
+  width: 20%
+  }
+
+.cats {
+  transform: rotate(90deg);
+  padding: 5%;
+}
