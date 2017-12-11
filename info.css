@@ -1,0 +1,21 @@
+header {
+  color: white;
+  background-color: #FF60CF;
+  text-align: center;
+  font-size: 36px
+  font-family: 'Lobster', cursive;
+}
+
+body {
+  background-color: white
+}
+
+img {
+ margin: center;
+ height: 50%;
+ width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
